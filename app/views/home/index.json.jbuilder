@@ -1,0 +1,1 @@
+json.extract! @dummy, :i_am_private
